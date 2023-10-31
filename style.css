@@ -4,8 +4,10 @@
 }
 
 body {
-    background-color: black;
+    height: 100vh;
     color: #f6f6f6;
+    box-sizing: border-box;
+    background-color: black;
 }
 
 .titulo-destaque {
