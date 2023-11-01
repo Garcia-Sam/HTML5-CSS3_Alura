@@ -24,10 +24,10 @@ body {
 }
 
 .apresentacao__conteudo {
+    gap: 40px;
     width: 615px;
     display: flex;
     flex-direction: column;
-    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo {
