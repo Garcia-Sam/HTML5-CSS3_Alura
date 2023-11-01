@@ -17,14 +17,17 @@ body {
 } 
 
 .apresentacao {
-    margin: 10%;
     display: flex;
+    margin: 10% 14%;
     align-items: center;
     justify-content: space-between;
 }
 
 .apresentacao__conteudo {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo {
