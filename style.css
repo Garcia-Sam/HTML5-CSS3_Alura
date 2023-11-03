@@ -6,7 +6,6 @@
 }
 
 body {
-    height: 100vh;
     color: #f6f6f6;
     box-sizing: border-box;
     background-color: black;
@@ -18,7 +17,7 @@ body {
 
 .apresentacao {
     display: flex;
-    margin: 10% 14%;
+    padding: 8% 14%;
     align-items: center;
     justify-content: space-between;
 }
@@ -73,4 +72,14 @@ body {
 
 .apresentacao__links__link:hover {
     background-color: #272727;
+}
+
+.rodape {
+    padding: 24px;
+    color: black;    
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+    background-color: #22d4fd;
+    font-family: 'Montserrat', sans-serif;
 }
