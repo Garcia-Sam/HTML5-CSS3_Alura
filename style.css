@@ -57,13 +57,16 @@ body {
 .apresentacao__links__link {
     gap: 16px;
     width: 378px;
+    display: flex;
     padding: 16px 0;
     font-size: 24px;
     font-weight: 600;
     color: #f6f6f6;
     text-align: center;
     border-radius: 8px;
+    align-items: center;
     text-decoration: none;
+    justify-content: center;
     border: 2px solid #22d4fd;
     font-family: 'Montserrat', sans-serif;
 }
