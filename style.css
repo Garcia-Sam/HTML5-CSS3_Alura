@@ -41,7 +41,10 @@ body {
 }
 
 .apresentacao__links {
+    gap: 32px;
     display: flex;
+    align-items: center; 
+    flex-direction: column;
     justify-content: space-between;
 }
 
