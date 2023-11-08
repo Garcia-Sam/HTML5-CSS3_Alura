@@ -127,6 +127,11 @@ body {
     }
 
     .apresentacao {
+        padding: 5%;
         flex-direction: column-reverse;
+    }
+
+    .apresentacao__conteudo {
+        width: auto;
     }
 }
